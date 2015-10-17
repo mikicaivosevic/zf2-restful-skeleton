@@ -3,7 +3,7 @@
 Use Composer to create a new project from scratch:
 
 ```
- php composer.phar create-project --stability="dev" mikicaivosevic/zf2-restful-skeleton path/to/install
+ php composer.phar create-project mikicaivosevic/zf2-restful-skeleton path/to/install
 ```
 
 To install Zend Framework 2 into our application we simply type:
