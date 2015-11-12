@@ -16,3 +16,6 @@ To install Zend Framework 2 into our application we simply type:
 ```
 php -S 0.0.0.0:8080 -t public/ public/index.php
 ```
+
+##Testing
+* Unit tests: ``$ vendor/bin/phpunit``
